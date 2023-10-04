@@ -22,7 +22,7 @@ createBtn.addEventListener("click", ()=>{
     
 
     inputBox.className = "input-box";
-    img.src = "/images/delete.png";
+    img.src = "images/delete.png";
     notesContainer.appendChild(inputBox).appendChild(img);
 });
 
